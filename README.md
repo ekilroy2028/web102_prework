@@ -1,10 +1,10 @@
-# WEB102 Prework - *Codepath_web102_prework*
+# WEB102 Prework - *web102_prework*
 
 Submitted by: **Elizabeth Kilroy**
 
-**Codepath_web102_prework** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**web102_prework** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **73** hours spent in total
+Time spent: **74** hours spent in total
 
 ## Required Features
 
